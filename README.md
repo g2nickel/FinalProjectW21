@@ -1,5 +1,5 @@
 # FinalProjectW21
-This script makes use of two API's which require authentication. For the program to run without modification, users should create a 'secrets.py' file in the same folder that that the the main script resides. 
+This script makes use of two API's which require authentication. For the program to run without modification, users should create a 'secrets.py' file in the same folder that the main script resides. 
 
 Merriam Webster API (Free) https://dictionaryapi.com/
 Store as 'wordkey' in 'secrets.py'
