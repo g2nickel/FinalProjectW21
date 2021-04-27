@@ -1,4 +1,6 @@
 # FinalProjectW21
+This program allows users to explore the word usage in news articles related to different topics.
+
 This script makes use of two API's which require authentication. For the program to run without modification, users should create a 'secrets.py' file in the same folder that the main script resides. 
 
 Merriam Webster API (Free) https://dictionaryapi.com/
